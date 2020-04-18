@@ -1,0 +1,1318 @@
+[
+    {
+      "both_sexes": 0.2, 
+      "country_name": "Afghanistan", 
+      "female": 0.0, 
+      "male": 0.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 6.4, 
+      "country_name": "Angola", 
+      "female": 2.3, 
+      "male": 10.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 7.5, 
+      "country_name": "Albania", 
+      "female": 2.6, 
+      "male": 12.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 11.3, 
+      "country_name": "Andorra", 
+      "female": 4.7, 
+      "male": 18.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 3.8, 
+      "country_name": "United Arab Emirates", 
+      "female": 0.6, 
+      "male": 4.8, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 9.8, 
+      "country_name": "Argentina", 
+      "female": 4.0, 
+      "male": 16.1, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 5.5, 
+      "country_name": "Armenia", 
+      "female": 1.6, 
+      "male": 10.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 7.0, 
+      "country_name": "Antigua and Barbuda", 
+      "female": 2.5, 
+      "male": 12.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 10.6, 
+      "country_name": "Australia", 
+      "female": 4.7, 
+      "male": 16.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 11.6, 
+      "country_name": "Austria", 
+      "female": 5.1, 
+      "male": 18.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.8, 
+      "country_name": "Azerbaijan", 
+      "female": 0.2, 
+      "male": 1.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 7.5, 
+      "country_name": "Burundi", 
+      "female": 2.2, 
+      "male": 13.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 12.1, 
+      "country_name": "Belgium", 
+      "female": 5.2, 
+      "male": 19.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 3.0, 
+      "country_name": "Benin", 
+      "female": 0.8, 
+      "male": 5.3, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 8.2, 
+      "country_name": "Burkina Faso", 
+      "female": 2.4, 
+      "male": 14.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.0, 
+      "country_name": "Bangladesh", 
+      "female": 0.0, 
+      "male": 0.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 12.7, 
+      "country_name": "Bulgaria", 
+      "female": 4.9, 
+      "male": 21.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 1.9, 
+      "country_name": "Bahrain", 
+      "female": 0.3, 
+      "male": 2.8, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 4.4, 
+      "country_name": "Bahamas", 
+      "female": 1.4, 
+      "male": 7.6, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 6.4, 
+      "country_name": "Bosnia and Herzegovina", 
+      "female": 2.1, 
+      "male": 10.9, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 11.2, 
+      "country_name": "Belarus", 
+      "female": 5.5, 
+      "male": 18.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 6.8, 
+      "country_name": "Belize", 
+      "female": 2.2, 
+      "male": 11.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 4.8, 
+      "country_name": "Bolivia, Plurinational State of", 
+      "female": 1.6, 
+      "male": 8.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 7.8, 
+      "country_name": "Brazil", 
+      "female": 2.4, 
+      "male": 13.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 9.6, 
+      "country_name": "Barbados", 
+      "female": 3.4, 
+      "male": 16.6, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.4, 
+      "country_name": "Brunei Darussalam", 
+      "female": 0.2, 
+      "male": 0.6, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.6, 
+      "country_name": "Bhutan", 
+      "female": 0.1, 
+      "male": 0.9, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 8.4, 
+      "country_name": "Botswana", 
+      "female": 2.4, 
+      "male": 14.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 3.3, 
+      "country_name": "Central African Republic", 
+      "female": 1.0, 
+      "male": 5.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 8.9, 
+      "country_name": "Canada", 
+      "female": 3.4, 
+      "male": 14.6, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 11.5, 
+      "country_name": "Switzerland", 
+      "female": 5.1, 
+      "male": 18.1, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 9.3, 
+      "country_name": "Chile", 
+      "female": 3.7, 
+      "male": 15.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 7.2, 
+      "country_name": "China", 
+      "female": 2.5, 
+      "male": 11.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 8.4, 
+      "country_name": "C\u00f4te d'Ivoire", 
+      "female": 2.4, 
+      "male": 14.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 8.9, 
+      "country_name": "Cameroon", 
+      "female": 2.7, 
+      "male": 15.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 7.8, 
+      "country_name": "Congo", 
+      "female": 2.8, 
+      "male": 12.9, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 10.6, 
+      "country_name": "Cook Islands", 
+      "female": 3.7, 
+      "male": 17.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 5.8, 
+      "country_name": "Colombia", 
+      "female": 1.8, 
+      "male": 10.1, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.9, 
+      "country_name": "Comoros", 
+      "female": 0.2, 
+      "male": 1.6, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 5.7, 
+      "country_name": "Cabo Verde", 
+      "female": 1.7, 
+      "male": 10.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 4.8, 
+      "country_name": "Costa Rica", 
+      "female": 1.4, 
+      "male": 8.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 6.1, 
+      "country_name": "Cuba", 
+      "female": 1.9, 
+      "male": 10.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 10.8, 
+      "country_name": "Cyprus", 
+      "female": 4.2, 
+      "male": 17.1, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 14.4, 
+      "country_name": "Czechia", 
+      "female": 6.2, 
+      "male": 23.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 13.4, 
+      "country_name": "Germany", 
+      "female": 5.9, 
+      "male": 21.3, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.5, 
+      "country_name": "Djibouti", 
+      "female": 0.1, 
+      "male": 0.9, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 8.2, 
+      "country_name": "Dominica", 
+      "female": 2.7, 
+      "male": 13.8, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 10.4, 
+      "country_name": "Denmark", 
+      "female": 4.5, 
+      "male": 16.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 6.9, 
+      "country_name": "Dominican Republic", 
+      "female": 2.2, 
+      "male": 11.6, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.9, 
+      "country_name": "Algeria", 
+      "female": 0.2, 
+      "male": 1.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 4.4, 
+      "country_name": "Ecuador", 
+      "female": 1.5, 
+      "male": 7.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.4, 
+      "country_name": "Egypt", 
+      "female": 0.1, 
+      "male": 0.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 1.3, 
+      "country_name": "Eritrea", 
+      "female": 0.3, 
+      "male": 2.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 10.0, 
+      "country_name": "Spain", 
+      "female": 4.0, 
+      "male": 16.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 11.6, 
+      "country_name": "Estonia", 
+      "female": 4.9, 
+      "male": 19.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 2.9, 
+      "country_name": "Ethiopia", 
+      "female": 0.8, 
+      "male": 5.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 10.7, 
+      "country_name": "Finland", 
+      "female": 4.4, 
+      "male": 17.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 3.0, 
+      "country_name": "Fiji", 
+      "female": 0.7, 
+      "male": 5.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 12.6, 
+      "country_name": "France", 
+      "female": 5.4, 
+      "male": 20.3, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 2.5, 
+      "country_name": "Micronesia, Federated States of", 
+      "female": 0.6, 
+      "male": 4.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 11.5, 
+      "country_name": "Gabon", 
+      "female": 4.6, 
+      "male": 18.1, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 11.5, 
+      "country_name": "United Kingdom", 
+      "female": 4.8, 
+      "male": 18.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 9.8, 
+      "country_name": "Georgia", 
+      "female": 2.9, 
+      "male": 17.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 2.7, 
+      "country_name": "Ghana", 
+      "female": 0.7, 
+      "male": 4.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 1.3, 
+      "country_name": "Guinea", 
+      "female": 0.3, 
+      "male": 2.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 3.8, 
+      "country_name": "Gambia", 
+      "female": 1.1, 
+      "male": 6.6, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 4.8, 
+      "country_name": "Guinea-Bissau", 
+      "female": 1.3, 
+      "male": 8.3, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 11.3, 
+      "country_name": "Equatorial Guinea", 
+      "female": 4.7, 
+      "male": 17.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 10.4, 
+      "country_name": "Greece", 
+      "female": 4.1, 
+      "male": 17.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 9.3, 
+      "country_name": "Grenada", 
+      "female": 3.1, 
+      "male": 15.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 2.5, 
+      "country_name": "Guatemala", 
+      "female": 0.7, 
+      "male": 4.3, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 6.3, 
+      "country_name": "Guyana", 
+      "female": 1.9, 
+      "male": 10.6, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 4.0, 
+      "country_name": "Honduras", 
+      "female": 1.2, 
+      "male": 6.9, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 8.9, 
+      "country_name": "Croatia", 
+      "female": 3.3, 
+      "male": 15.1, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 5.8, 
+      "country_name": "Haiti", 
+      "female": 1.8, 
+      "male": 10.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 11.4, 
+      "country_name": "Hungary", 
+      "female": 4.5, 
+      "male": 19.1, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.8, 
+      "country_name": "Indonesia", 
+      "female": 0.2, 
+      "male": 1.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 5.7, 
+      "country_name": "India", 
+      "female": 1.7, 
+      "male": 9.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 13.0, 
+      "country_name": "Ireland", 
+      "female": 5.8, 
+      "male": 20.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 1.0, 
+      "country_name": "Iran, Islamic Republic of", 
+      "female": 0.1, 
+      "male": 1.9, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.4, 
+      "country_name": "Iraq", 
+      "female": 0.1, 
+      "male": 0.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 9.1, 
+      "country_name": "Iceland", 
+      "female": 3.8, 
+      "male": 14.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 3.8, 
+      "country_name": "Israel", 
+      "female": 1.4, 
+      "male": 6.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 7.5, 
+      "country_name": "Italy", 
+      "female": 2.8, 
+      "male": 12.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 4.2, 
+      "country_name": "Jamaica", 
+      "female": 1.2, 
+      "male": 7.1, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.7, 
+      "country_name": "Jordan", 
+      "female": 0.2, 
+      "male": 1.3, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 8.0, 
+      "country_name": "Japan", 
+      "female": 2.9, 
+      "male": 13.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 7.7, 
+      "country_name": "Kazakhstan", 
+      "female": 2.4, 
+      "male": 13.6, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 3.4, 
+      "country_name": "Kenya", 
+      "female": 0.9, 
+      "male": 5.8, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 6.2, 
+      "country_name": "Kyrgyzstan", 
+      "female": 1.7, 
+      "male": 11.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 6.7, 
+      "country_name": "Cambodia", 
+      "female": 2.0, 
+      "male": 11.9, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.4, 
+      "country_name": "Kiribati", 
+      "female": 0.1, 
+      "male": 0.8, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 9.4, 
+      "country_name": "Saint Kitts and Nevis", 
+      "female": 3.4, 
+      "male": 15.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 10.2, 
+      "country_name": "Korea, Republic of", 
+      "female": 3.9, 
+      "male": 16.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.0, 
+      "country_name": "Kuwait", 
+      "female": 0.0, 
+      "male": 0.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 10.4, 
+      "country_name": "Lao People's Democratic Republic", 
+      "female": 3.3, 
+      "male": 17.6, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 1.5, 
+      "country_name": "Lebanon", 
+      "female": 0.3, 
+      "male": 2.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 5.8, 
+      "country_name": "Liberia", 
+      "female": 1.6, 
+      "male": 9.9, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.0, 
+      "country_name": "Libya", 
+      "female": 0.0, 
+      "male": 0.1, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 9.9, 
+      "country_name": "Saint Lucia", 
+      "female": 3.4, 
+      "male": 16.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 4.3, 
+      "country_name": "Sri Lanka", 
+      "female": 1.2, 
+      "male": 7.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 5.0, 
+      "country_name": "Lesotho", 
+      "female": 1.3, 
+      "male": 8.9, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 15.0, 
+      "country_name": "Lithuania", 
+      "female": 6.9, 
+      "male": 24.9, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 13.0, 
+      "country_name": "Luxembourg", 
+      "female": 6.3, 
+      "male": 19.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 12.9, 
+      "country_name": "Latvia", 
+      "female": 5.7, 
+      "male": 21.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.6, 
+      "country_name": "Morocco", 
+      "female": 0.1, 
+      "male": 1.1, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 15.2, 
+      "country_name": "Moldova, Republic of", 
+      "female": 6.1, 
+      "male": 25.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 1.9, 
+      "country_name": "Madagascar", 
+      "female": 0.5, 
+      "male": 3.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 2.7, 
+      "country_name": "Maldives", 
+      "female": 0.6, 
+      "male": 4.8, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 6.5, 
+      "country_name": "Mexico", 
+      "female": 2.1, 
+      "male": 11.1, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 8.1, 
+      "country_name": "North Macedonia", 
+      "female": 2.8, 
+      "male": 13.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 1.3, 
+      "country_name": "Mali", 
+      "female": 0.3, 
+      "male": 2.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 8.1, 
+      "country_name": "Malta", 
+      "female": 2.9, 
+      "male": 13.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 4.8, 
+      "country_name": "Myanmar", 
+      "female": 1.3, 
+      "male": 8.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 8.0, 
+      "country_name": "Montenegro", 
+      "female": 2.8, 
+      "male": 13.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 7.4, 
+      "country_name": "Mongolia", 
+      "female": 2.1, 
+      "male": 12.8, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 2.4, 
+      "country_name": "Mozambique", 
+      "female": 0.7, 
+      "male": 4.3, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.0, 
+      "country_name": "Mauritania", 
+      "female": 0.0, 
+      "male": 0.1, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 3.6, 
+      "country_name": "Mauritius", 
+      "female": 1.0, 
+      "male": 6.3, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 3.7, 
+      "country_name": "Malawi", 
+      "female": 1.0, 
+      "male": 6.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.9, 
+      "country_name": "Malaysia", 
+      "female": 0.3, 
+      "male": 1.6, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 9.8, 
+      "country_name": "Namibia", 
+      "female": 2.9, 
+      "male": 17.3, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.5, 
+      "country_name": "Niger", 
+      "female": 0.1, 
+      "male": 0.9, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 13.4, 
+      "country_name": "Nigeria", 
+      "female": 4.6, 
+      "male": 21.9, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 5.2, 
+      "country_name": "Nicaragua", 
+      "female": 1.5, 
+      "male": 9.1, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 7.0, 
+      "country_name": "Niue", 
+      "female": 2.1, 
+      "male": 12.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 8.7, 
+      "country_name": "Netherlands", 
+      "female": 3.6, 
+      "male": 13.9, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 7.5, 
+      "country_name": "Norway", 
+      "female": 3.2, 
+      "male": 11.6, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 2.0, 
+      "country_name": "Nepal", 
+      "female": 0.6, 
+      "male": 3.6, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 6.0, 
+      "country_name": "Nauru", 
+      "female": 1.6, 
+      "male": 10.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 10.7, 
+      "country_name": "New Zealand", 
+      "female": 4.6, 
+      "male": 17.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.8, 
+      "country_name": "Oman", 
+      "female": 0.1, 
+      "male": 1.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.3, 
+      "country_name": "Pakistan", 
+      "female": 0.1, 
+      "male": 0.6, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 7.9, 
+      "country_name": "Panama", 
+      "female": 2.6, 
+      "male": 13.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 6.3, 
+      "country_name": "Peru", 
+      "female": 2.2, 
+      "male": 10.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 6.6, 
+      "country_name": "Philippines", 
+      "female": 1.9, 
+      "male": 11.3, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 1.2, 
+      "country_name": "Papua New Guinea", 
+      "female": 0.3, 
+      "male": 2.1, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 11.6, 
+      "country_name": "Poland", 
+      "female": 4.7, 
+      "male": 19.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 3.9, 
+      "country_name": "Korea, Democratic People's Republic of", 
+      "female": 1.2, 
+      "male": 6.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 12.3, 
+      "country_name": "Portugal", 
+      "female": 5.1, 
+      "male": 20.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 7.2, 
+      "country_name": "Paraguay", 
+      "female": 2.1, 
+      "male": 12.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 2.0, 
+      "country_name": "Qatar", 
+      "female": 0.4, 
+      "male": 2.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 12.7, 
+      "country_name": "Romania", 
+      "female": 5.0, 
+      "male": 21.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 11.7, 
+      "country_name": "Russian Federation", 
+      "female": 5.8, 
+      "male": 18.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 9.0, 
+      "country_name": "Rwanda", 
+      "female": 2.9, 
+      "male": 16.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.2, 
+      "country_name": "Saudi Arabia", 
+      "female": 0.1, 
+      "male": 0.3, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.5, 
+      "country_name": "Sudan", 
+      "female": 0.1, 
+      "male": 0.9, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.7, 
+      "country_name": "Senegal", 
+      "female": 0.2, 
+      "male": 1.3, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 2.0, 
+      "country_name": "Singapore", 
+      "female": 0.8, 
+      "male": 3.3, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 1.4, 
+      "country_name": "Solomon Islands", 
+      "female": 0.3, 
+      "male": 2.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 5.7, 
+      "country_name": "Sierra Leone", 
+      "female": 1.6, 
+      "male": 9.8, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 3.8, 
+      "country_name": "El Salvador", 
+      "female": 1.1, 
+      "male": 6.9, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.0, 
+      "country_name": "Somalia", 
+      "female": 0.0, 
+      "male": 0.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 11.1, 
+      "country_name": "Serbia", 
+      "female": 4.1, 
+      "male": 18.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 6.8, 
+      "country_name": "Sao Tome and Principe", 
+      "female": 2.0, 
+      "male": 11.8, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 5.1, 
+      "country_name": "Suriname", 
+      "female": 1.6, 
+      "male": 8.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 11.5, 
+      "country_name": "Slovakia", 
+      "female": 4.6, 
+      "male": 18.9, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 12.6, 
+      "country_name": "Slovenia", 
+      "female": 5.1, 
+      "male": 20.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 9.2, 
+      "country_name": "Sweden", 
+      "female": 3.8, 
+      "male": 14.6, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 9.9, 
+      "country_name": "Eswatini", 
+      "female": 2.9, 
+      "male": 17.3, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 12.0, 
+      "country_name": "Seychelles", 
+      "female": 4.1, 
+      "male": 19.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.3, 
+      "country_name": "Syrian Arab Republic", 
+      "female": 0.1, 
+      "male": 0.6, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 1.6, 
+      "country_name": "Chad", 
+      "female": 0.4, 
+      "male": 2.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 3.1, 
+      "country_name": "Togo", 
+      "female": 0.9, 
+      "male": 5.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 8.3, 
+      "country_name": "Thailand", 
+      "female": 2.5, 
+      "male": 14.3, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 3.3, 
+      "country_name": "Tajikistan", 
+      "female": 0.8, 
+      "male": 5.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 5.4, 
+      "country_name": "Turkmenistan", 
+      "female": 1.5, 
+      "male": 9.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 2.1, 
+      "country_name": "Timor-Leste", 
+      "female": 0.5, 
+      "male": 3.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 1.5, 
+      "country_name": "Tonga", 
+      "female": 0.4, 
+      "male": 2.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 8.4, 
+      "country_name": "Trinidad and Tobago", 
+      "female": 3.1, 
+      "male": 13.9, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 1.9, 
+      "country_name": "Tunisia", 
+      "female": 0.2, 
+      "male": 3.6, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 2.0, 
+      "country_name": "Turkey", 
+      "female": 0.4, 
+      "male": 3.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 1.7, 
+      "country_name": "Tuvalu", 
+      "female": 0.4, 
+      "male": 3.1, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 9.4, 
+      "country_name": "Tanzania, United Republic of", 
+      "female": 2.9, 
+      "male": 16.0, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 9.5, 
+      "country_name": "Uganda", 
+      "female": 3.0, 
+      "male": 16.1, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 8.6, 
+      "country_name": "Ukraine", 
+      "female": 4.0, 
+      "male": 14.1, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 10.8, 
+      "country_name": "Uruguay", 
+      "female": 4.5, 
+      "male": 17.8, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 9.8, 
+      "country_name": "United States", 
+      "female": 4.1, 
+      "male": 15.8, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 2.7, 
+      "country_name": "Uzbekistan", 
+      "female": 0.7, 
+      "male": 4.8, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 8.2, 
+      "country_name": "Saint Vincent and the Grenadines", 
+      "female": 2.7, 
+      "male": 13.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 5.6, 
+      "country_name": "Venezuela, Bolivarian Republic of", 
+      "female": 1.7, 
+      "male": 9.7, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 8.4, 
+      "country_name": "Viet Nam", 
+      "female": 2.5, 
+      "male": 14.5, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 1.0, 
+      "country_name": "Vanuatu", 
+      "female": 0.2, 
+      "male": 1.8, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 2.5, 
+      "country_name": "Samoa", 
+      "female": 0.6, 
+      "male": 4.3, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 0.1, 
+      "country_name": "Yemen", 
+      "female": 0.0, 
+      "male": 0.1, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 9.3, 
+      "country_name": "South Africa", 
+      "female": 2.7, 
+      "male": 16.2, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 4.8, 
+      "country_name": "Zambia", 
+      "female": 1.4, 
+      "male": 8.4, 
+      "year": 2016
+    }, 
+    {
+      "both_sexes": 4.8, 
+      "country_name": "Zimbabwe", 
+      "female": 1.3, 
+      "male": 8.5, 
+      "year": 2016
+    }
+  ]
